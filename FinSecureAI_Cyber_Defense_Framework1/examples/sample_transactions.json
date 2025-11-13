@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "amount": 25.5,
+    "channel": "online",
+    "account_id": "A123"
+  },
+  {
+    "id": 2,
+    "amount": 7500.0,
+    "channel": "online",
+    "account_id": "A999"
+  },
+  {
+    "id": 3,
+    "amount": 120.0,
+    "channel": "mobile",
+    "account_id": "A123"
+  },
+  {
+    "id": 4,
+    "amount": 5.0,
+    "channel": "online",
+    "account_id": "A555"
+  },
+  {
+    "id": 5,
+    "amount": 9800.0,
+    "channel": "online",
+    "account_id": "A777"
+  }
+]

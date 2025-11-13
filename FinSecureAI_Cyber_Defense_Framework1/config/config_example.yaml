@@ -1,0 +1,8 @@
+model:
+  anomaly_threshold: 0.8
+
+logging:
+  level: INFO
+
+data:
+  source: sample_transactions.json
