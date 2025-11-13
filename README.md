@@ -8,6 +8,7 @@ Analyze security gaps in digital onboarding and transactional pipelines Support 
 Offer a public, transparent reference to monitor ongoing development The framework is being developed in iterative stages and reflects a technical, practical, and evidence-driven approach to improving financial sector security. 
 
 Repository Structure
+
 FinSecureAI_Cyber_Defense_Framework/
 │
 ├── README.md
